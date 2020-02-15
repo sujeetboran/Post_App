@@ -28,22 +28,14 @@ requirements are given in requirement.txt file in Post_App folder
 
 
 
-After downloading the app
+# After downloading the app
 
 do all migration first by commands
 
-'''
-python3 manage.py makemigrations
-python3 manage.py migrate
-'''
+1) python3 manage.py makemigrations
+2) python3 manage.py migrate
 
-After doing migration you can run the server by command
-'''
+
+# After doing migration you can run the server by command
+
 python3 manage.py runserver
-'''
-
-want to create superuser
-
-'''
-python3 manage.py createsuperuser
-'''
