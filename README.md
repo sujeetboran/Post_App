@@ -18,6 +18,8 @@ This is a normal posting app with lot of functionalities.
 
 6) Will show the post with name of user, date, profile picture. 
 
+7) can see others post but can't change them as same like other application.
+
   
 
 requirements are given in requirement.txt file in Post_App folder 
